@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agricultural Suppliers Map</title>
+    <!-- External CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css"/>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/15.7.1/nouislider.min.css">
+    <!-- Material Icons -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!-- Your CSS -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="search-container">
+        <div class="search-bar">
+            <div id="location-section" class="search-section">
+                <label>Location</label>
+                <input type="text" id="city-search" placeholder="Search cities" readonly>
+            </div>
+
+            <div class="search-divider"></div>
+
+            <div id="category-section" class="search-section">
+                <label>Category</label>
+                <input type="text" id="category-search" placeholder="Select category" readonly>
+            </div>
+
+            <div class="search-divider"></div>
+
+            <div id="date-section" class="search-section">
+                <label>Availability</label>
+                <input type="text" id="date-search" placeholder="Add dates" readonly>
+            </div>
+
+            <button class="search-button">
+                <span class="material-icons">search</span>
+            </button>
+        </div>
+
+        <div id="city-popover" class="filter-popover">
+            <div class="popover-content">
+                <h3>Select City</h3>
+                <div id="city-filters" class="filter-buttons"></div>
+            </div>
+        </div>
+
+        <div id="category-popover" class="filter-popover">
+            <div class="popover-content">
+                <h3>Select Category</h3>
+                <div id="category-filters" class="filter-buttons"></div>
+            </div>
+        </div>
+
+        <div id="date-popover" class="filter-popover">
+            <div class="popover-content">
+                <h3>Select Availability Period</h3>
+                <div class="date-slider-container">
+                    <div id="date-slider"></div>
+                    <div class="date-range-labels">
+                        <span id="start-date-label"></span>
+                        <span id="end-date-label"></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="map" style="height: 100vh; width: 100%; position: absolute; top: 0; left: 0; z-index: 1;"></div>
+
+    <!-- External Scripts -->
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/15.7.1/nouislider.min.js"></script>
+    <!-- Your Scripts -->
+    <script src="{{ url_for('static', filename='js/models/LocationModel.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/viewmodels/MapViewModel.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>

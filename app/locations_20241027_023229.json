@@ -1,0 +1,954 @@
+{
+  "locations": [
+    {
+      "name": "UD Sumber Sweet Corn Prima",
+      "lat": -6.945145617955071,
+      "lng": 106.95545206343489,
+      "city": "Sukabumi",
+      "description": "Premium Sweet Corn producer with modern processing facilities",
+      "products": [
+        {
+          "name": "Sweet Corn",
+          "category": "grains",
+          "tonnage": 424,
+          "sell_period": {
+            "start": "2024-11-29",
+            "end": "2025-01-31"
+          }
+        }
+      ],
+      "contact": "0852-6070-0209"
+    },
+    {
+      "name": "CV Sumber Milkfish Sejahtera",
+      "lat": -7.92452877428712,
+      "lng": 112.66224113020048,
+      "city": "Malang",
+      "description": "Sustainable Milkfish supplier with modern facilities",
+      "products": [
+        {
+          "name": "Milkfish",
+          "category": "fisheries",
+          "tonnage": 131,
+          "sell_period": {
+            "start": "2024-12-07",
+            "end": "2025-03-24"
+          }
+        }
+      ],
+      "contact": "0812-6975-8009"
+    },
+    {
+      "name": "PT Sumber Arabica Coffee Sejahtera",
+      "lat": -6.830303494181286,
+      "lng": 109.03449200512179,
+      "city": "Brebes",
+      "description": "Sustainable Arabica Coffee producer with modern technology",
+      "products": [
+        {
+          "name": "Arabica Coffee",
+          "category": "plantations",
+          "tonnage": 61,
+          "sell_period": {
+            "start": "2025-02-15",
+            "end": "2025-05-09"
+          }
+        }
+      ],
+      "contact": "0822-2612-8511"
+    },
+    {
+      "name": "CV Tani Layer Chicken Jaya",
+      "lat": -6.843324184018444,
+      "lng": 107.1384381896911,
+      "city": "Cianjur",
+      "description": "Quality Layer Chicken producer with biosecurity system",
+      "products": [
+        {
+          "name": "Layer Chicken",
+          "category": "poultry",
+          "tonnage": 27,
+          "sell_period": {
+            "start": "2024-11-30",
+            "end": "2025-03-14"
+          }
+        }
+      ],
+      "contact": "0813-8687-2651"
+    },
+    {
+      "name": "PT Hasil Cocoa Prima",
+      "lat": -6.3186330903806125,
+      "lng": 108.35694268046046,
+      "city": "Indramayu",
+      "description": "Sustainable Cocoa producer with modern technology",
+      "products": [
+        {
+          "name": "Cocoa",
+          "category": "plantations",
+          "tonnage": 215,
+          "sell_period": {
+            "start": "2025-05-09",
+            "end": "2025-07-18"
+          }
+        }
+      ],
+      "contact": "0853-4523-3078"
+    },
+    {
+      "name": "PT Mitra IR64 Rice Makmur",
+      "lat": -8.211373918970319,
+      "lng": 114.34011665673233,
+      "city": "Banyuwangi",
+      "description": "Leading IR64 Rice supplier in the region",
+      "products": [
+        {
+          "name": "IR64 Rice",
+          "category": "grains",
+          "tonnage": 942,
+          "sell_period": {
+            "start": "2025-01-30",
+            "end": "2025-04-22"
+          }
+        }
+      ],
+      "contact": "0853-9598-4990"
+    },
+    {
+      "name": "PT Mitra IR64 Rice Utama",
+      "lat": -5.457420960908851,
+      "lng": 105.23111569110719,
+      "city": "Lampung",
+      "description": "Premium IR64 Rice producer with modern processing facilities",
+      "products": [
+        {
+          "name": "IR64 Rice",
+          "category": "grains",
+          "tonnage": 1035,
+          "sell_period": {
+            "start": "2025-01-30",
+            "end": "2025-04-25"
+          }
+        }
+      ],
+      "contact": "0822-1716-9177"
+    },
+    {
+      "name": "CV Tani Potatoes Utama",
+      "lat": -0.0038295571128510834,
+      "lng": 109.34625139925683,
+      "city": "Pontianak",
+      "description": "Quality Potatoes supplier with cold chain facility",
+      "products": [
+        {
+          "name": "Potatoes",
+          "category": "horticulture",
+          "tonnage": 138,
+          "sell_period": {
+            "start": "2024-11-12",
+            "end": "2025-03-05"
+          }
+        }
+      ],
+      "contact": "0822-2263-0534"
+    },
+    {
+      "name": "UD Mitra Pandan Wangi Rice Jaya",
+      "lat": -5.160389521707993,
+      "lng": 119.44895857996869,
+      "city": "Makassar",
+      "description": "Sustainable Pandan Wangi Rice farming with high-quality standards",
+      "products": [
+        {
+          "name": "Pandan Wangi Rice",
+          "category": "grains",
+          "tonnage": 753,
+          "sell_period": {
+            "start": "2024-12-02",
+            "end": "2025-02-28"
+          }
+        }
+      ],
+      "contact": "0853-9464-9055"
+    },
+    {
+      "name": "CV Mitra Vannamei Shrimp Prima",
+      "lat": -6.961680494332908,
+      "lng": 106.92276768464204,
+      "city": "Sukabumi",
+      "description": "Fresh Vannamei Shrimp producer with cold storage system",
+      "products": [
+        {
+          "name": "Vannamei Shrimp",
+          "category": "fisheries",
+          "tonnage": 116,
+          "sell_period": {
+            "start": "2024-11-22",
+            "end": "2025-03-17"
+          }
+        }
+      ],
+      "contact": "0852-8602-1372"
+    },
+    {
+      "name": "CV Pangan Sweet Corn Prima",
+      "lat": -7.856726282409806,
+      "lng": 111.99632375652484,
+      "city": "Kediri",
+      "description": "Premium Sweet Corn producer with modern processing facilities",
+      "products": [
+        {
+          "name": "Sweet Corn",
+          "category": "grains",
+          "tonnage": 453,
+          "sell_period": {
+            "start": "2024-12-12",
+            "end": "2025-02-18"
+          }
+        }
+      ],
+      "contact": "0812-5849-4365"
+    },
+    {
+      "name": "UD Hasil Tuna Prima",
+      "lat": -0.046213909112355435,
+      "lng": 109.36107567237889,
+      "city": "Pontianak",
+      "description": "Sustainable Tuna supplier with modern facilities",
+      "products": [
+        {
+          "name": "Tuna",
+          "category": "fisheries",
+          "tonnage": 165,
+          "sell_period": {
+            "start": "2024-12-05",
+            "end": "2025-03-28"
+          }
+        }
+      ],
+      "contact": "0812-6789-6965"
+    },
+    {
+      "name": "CV Pangan IR64 Rice Jaya",
+      "lat": -7.822767342085628,
+      "lng": 112.05848318455844,
+      "city": "Kediri",
+      "description": "Leading IR64 Rice supplier in the region",
+      "products": [
+        {
+          "name": "IR64 Rice",
+          "category": "grains",
+          "tonnage": 1088,
+          "sell_period": {
+            "start": "2025-05-16",
+            "end": "2025-08-08"
+          }
+        }
+      ],
+      "contact": "0821-2654-2257"
+    },
+    {
+      "name": "UD Sumber Palm Oil Prima",
+      "lat": -7.897241326753862,
+      "lng": 112.05021071103417,
+      "city": "Kediri",
+      "description": "Premium Palm Oil plantation with quality control",
+      "products": [
+        {
+          "name": "Palm Oil",
+          "category": "plantations",
+          "tonnage": 1115,
+          "sell_period": {
+            "start": "2024-11-30",
+            "end": "2025-03-18"
+          }
+        }
+      ],
+      "contact": "0852-0768-6837"
+    },
+    {
+      "name": "CV Hasil Tuna Utama",
+      "lat": -5.164308903018327,
+      "lng": 119.47094194565844,
+      "city": "Makassar",
+      "description": "Premium Tuna farm with international standards",
+      "products": [
+        {
+          "name": "Tuna",
+          "category": "fisheries",
+          "tonnage": 194,
+          "sell_period": {
+            "start": "2024-12-09",
+            "end": "2025-03-19"
+          }
+        }
+      ],
+      "contact": "0852-7331-7061"
+    },
+    {
+      "name": "UD Pangan Pandan Wangi Rice Utama",
+      "lat": -7.894917388982753,
+      "lng": 112.04764238139083,
+      "city": "Kediri",
+      "description": "Premium Pandan Wangi Rice producer with modern processing facilities",
+      "products": [
+        {
+          "name": "Pandan Wangi Rice",
+          "category": "grains",
+          "tonnage": 985,
+          "sell_period": {
+            "start": "2025-07-05",
+            "end": "2025-09-23"
+          }
+        }
+      ],
+      "contact": "0853-3525-7778"
+    },
+    {
+      "name": "UD Pangan Cocoa Sejahtera",
+      "lat": -0.06762867601683142,
+      "lng": 109.38836037346891,
+      "city": "Pontianak",
+      "description": "Large scale Cocoa plantation with processing facilities",
+      "products": [
+        {
+          "name": "Cocoa",
+          "category": "plantations",
+          "tonnage": 429,
+          "sell_period": {
+            "start": "2024-12-25",
+            "end": "2025-02-28"
+          }
+        }
+      ],
+      "contact": "0813-0511-4104"
+    },
+    {
+      "name": "CV Hasil Red Chili Utama",
+      "lat": -6.833383800608592,
+      "lng": 109.09004603009171,
+      "city": "Brebes",
+      "description": "Quality Red Chili supplier with cold chain facility",
+      "products": [
+        {
+          "name": "Red Chili",
+          "category": "horticulture",
+          "tonnage": 58,
+          "sell_period": {
+            "start": "2025-02-11",
+            "end": "2025-05-04"
+          }
+        }
+      ],
+      "contact": "0813-8810-1157"
+    },
+    {
+      "name": "PT Mitra Yellow Corn Utama",
+      "lat": -6.8926250814197765,
+      "lng": 106.95618245082288,
+      "city": "Sukabumi",
+      "description": "Sustainable Yellow Corn farming with high-quality standards",
+      "products": [
+        {
+          "name": "Yellow Corn",
+          "category": "grains",
+          "tonnage": 524,
+          "sell_period": {
+            "start": "2025-05-18",
+            "end": "2025-07-18"
+          }
+        }
+      ],
+      "contact": "0813-7256-8062"
+    },
+    {
+      "name": "CV Hasil Sweet Corn Sejahtera",
+      "lat": -6.775730973086314,
+      "lng": 107.165515717918,
+      "city": "Cianjur",
+      "description": "Leading Sweet Corn supplier in the region",
+      "products": [
+        {
+          "name": "Sweet Corn",
+          "category": "grains",
+          "tonnage": 317,
+          "sell_period": {
+            "start": "2025-01-02",
+            "end": "2025-03-09"
+          }
+        }
+      ],
+      "contact": "0821-8828-9823"
+    },
+    {
+      "name": "CV Mitra Arabica Coffee Jaya",
+      "lat": -5.498411573085363,
+      "lng": 105.29721177336013,
+      "city": "Lampung",
+      "description": "Large scale Arabica Coffee plantation with processing facilities",
+      "products": [
+        {
+          "name": "Arabica Coffee",
+          "category": "plantations",
+          "tonnage": 86,
+          "sell_period": {
+            "start": "2024-12-14",
+            "end": "2025-02-25"
+          }
+        }
+      ],
+      "contact": "0821-1880-7762"
+    },
+    {
+      "name": "UD Sumber Palm Oil Jaya",
+      "lat": -3.0055575317435252,
+      "lng": 104.8061230702545,
+      "city": "Palembang",
+      "description": "Sustainable Palm Oil producer with modern technology",
+      "products": [
+        {
+          "name": "Palm Oil",
+          "category": "plantations",
+          "tonnage": 1782,
+          "sell_period": {
+            "start": "2024-12-01",
+            "end": "2025-03-29"
+          }
+        }
+      ],
+      "contact": "0853-8969-1960"
+    },
+    {
+      "name": "CV Mitra Carrots Prima",
+      "lat": 1.4510298795071739,
+      "lng": 124.86970173474056,
+      "city": "Manado",
+      "description": "Fresh Carrots from highland farms",
+      "products": [
+        {
+          "name": "Carrots",
+          "category": "horticulture",
+          "tonnage": 118,
+          "sell_period": {
+            "start": "2024-12-11",
+            "end": "2025-03-12"
+          }
+        }
+      ],
+      "contact": "0853-9265-5030"
+    },
+    {
+      "name": "CV Hasil Broiler Chicken Prima",
+      "lat": 0.02155507126973236,
+      "lng": 109.37222000060338,
+      "city": "Pontianak",
+      "description": "Modern Broiler Chicken farm with strict health protocols",
+      "products": [
+        {
+          "name": "Broiler Chicken",
+          "category": "poultry",
+          "tonnage": 75,
+          "sell_period": {
+            "start": "2024-11-21",
+            "end": "2025-03-08"
+          }
+        }
+      ],
+      "contact": "0822-1263-7289"
+    },
+    {
+      "name": "CV Mitra Layer Chicken Makmur",
+      "lat": -7.314242584331877,
+      "lng": 109.91278126438611,
+      "city": "Wonosobo",
+      "description": "Certified Layer Chicken farm with modern facilities",
+      "products": [
+        {
+          "name": "Layer Chicken",
+          "category": "poultry",
+          "tonnage": 33,
+          "sell_period": {
+            "start": "2024-12-01",
+            "end": "2025-03-24"
+          }
+        }
+      ],
+      "contact": "0813-8633-6361"
+    },
+    {
+      "name": "UD Tani Milkfish Jaya",
+      "lat": -6.325975941370401,
+      "lng": 108.35785371475939,
+      "city": "Indramayu",
+      "description": "Fresh Milkfish producer with cold storage system",
+      "products": [
+        {
+          "name": "Milkfish",
+          "category": "fisheries",
+          "tonnage": 84,
+          "sell_period": {
+            "start": "2024-12-08",
+            "end": "2025-03-11"
+          }
+        }
+      ],
+      "contact": "0812-3849-5822"
+    },
+    {
+      "name": "UD Hasil Pandan Wangi Rice Jaya",
+      "lat": 1.5240720018180574,
+      "lng": 124.82372735038065,
+      "city": "Manado",
+      "description": "Premium Pandan Wangi Rice producer with modern processing facilities",
+      "products": [
+        {
+          "name": "Pandan Wangi Rice",
+          "category": "grains",
+          "tonnage": 512,
+          "sell_period": {
+            "start": "2025-07-08",
+            "end": "2025-09-25"
+          }
+        }
+      ],
+      "contact": "0812-2641-5193"
+    },
+    {
+      "name": "PT Sumber Vannamei Shrimp Makmur",
+      "lat": -8.18972700502381,
+      "lng": 114.40075584493235,
+      "city": "Banyuwangi",
+      "description": "Sustainable Vannamei Shrimp supplier with modern facilities",
+      "products": [
+        {
+          "name": "Vannamei Shrimp",
+          "category": "fisheries",
+          "tonnage": 80,
+          "sell_period": {
+            "start": "2024-12-06",
+            "end": "2025-04-03"
+          }
+        }
+      ],
+      "contact": "0822-2098-8771"
+    },
+    {
+      "name": "PT Tani Broiler Chicken Jaya",
+      "lat": -7.971309096412009,
+      "lng": 112.67641545945183,
+      "city": "Malang",
+      "description": "Certified Broiler Chicken farm with modern facilities",
+      "products": [
+        {
+          "name": "Broiler Chicken",
+          "category": "poultry",
+          "tonnage": 88,
+          "sell_period": {
+            "start": "2024-12-01",
+            "end": "2025-03-16"
+          }
+        }
+      ],
+      "contact": "0812-8181-2851"
+    },
+    {
+      "name": "UD Tani Layer Chicken Sejahtera",
+      "lat": -6.855086161723711,
+      "lng": 109.06359155121424,
+      "city": "Brebes",
+      "description": "Modern Layer Chicken farm with strict health protocols",
+      "products": [
+        {
+          "name": "Layer Chicken",
+          "category": "poultry",
+          "tonnage": 78,
+          "sell_period": {
+            "start": "2024-11-16",
+            "end": "2025-03-13"
+          }
+        }
+      ],
+      "contact": "0812-5273-7218"
+    },
+    {
+      "name": "CV Hasil Tea Leaves Sejahtera",
+      "lat": -6.903651501161097,
+      "lng": 106.91096339062938,
+      "city": "Sukabumi",
+      "description": "Sustainable Tea Leaves producer with modern technology",
+      "products": [
+        {
+          "name": "Tea Leaves",
+          "category": "plantations",
+          "tonnage": 330,
+          "sell_period": {
+            "start": "2024-11-18",
+            "end": "2025-02-25"
+          }
+        }
+      ],
+      "contact": "0812-3368-6719"
+    },
+    {
+      "name": "PT Sumber Broiler Chicken Makmur",
+      "lat": -6.28929513921553,
+      "lng": 108.33396842680425,
+      "city": "Indramayu",
+      "description": "Certified Broiler Chicken farm with modern facilities",
+      "products": [
+        {
+          "name": "Broiler Chicken",
+          "category": "poultry",
+          "tonnage": 32,
+          "sell_period": {
+            "start": "2024-12-07",
+            "end": "2025-03-26"
+          }
+        }
+      ],
+      "contact": "0812-1585-1787"
+    },
+    {
+      "name": "UD Hasil Yellow Corn Utama",
+      "lat": -5.425183425164626,
+      "lng": 105.24671436313004,
+      "city": "Lampung",
+      "description": "Premium Yellow Corn producer with modern processing facilities",
+      "products": [
+        {
+          "name": "Yellow Corn",
+          "category": "grains",
+          "tonnage": 402,
+          "sell_period": {
+            "start": "2025-01-02",
+            "end": "2025-03-30"
+          }
+        }
+      ],
+      "contact": "0853-7468-5361"
+    },
+    {
+      "name": "UD Hasil Tea Leaves Prima",
+      "lat": -7.942400435434092,
+      "lng": 112.62315687296713,
+      "city": "Malang",
+      "description": "Sustainable Tea Leaves producer with modern technology",
+      "products": [
+        {
+          "name": "Tea Leaves",
+          "category": "plantations",
+          "tonnage": 521,
+          "sell_period": {
+            "start": "2024-11-28",
+            "end": "2025-03-01"
+          }
+        }
+      ],
+      "contact": "0852-6646-8738"
+    },
+    {
+      "name": "CV Sumber Milkfish Prima",
+      "lat": -0.042646848020465616,
+      "lng": 109.31266421890115,
+      "city": "Pontianak",
+      "description": "Premium Milkfish farm with international standards",
+      "products": [
+        {
+          "name": "Milkfish",
+          "category": "fisheries",
+          "tonnage": 169,
+          "sell_period": {
+            "start": "2024-11-27",
+            "end": "2025-03-19"
+          }
+        }
+      ],
+      "contact": "0821-9809-6100"
+    },
+    {
+      "name": "UD Pangan Sweet Corn Makmur",
+      "lat": -6.797414352464773,
+      "lng": 107.65899683445481,
+      "city": "Bandung",
+      "description": "Sustainable Sweet Corn farming with high-quality standards",
+      "products": [
+        {
+          "name": "Sweet Corn",
+          "category": "grains",
+          "tonnage": 502,
+          "sell_period": {
+            "start": "2024-12-12",
+            "end": "2025-03-12"
+          }
+        }
+      ],
+      "contact": "0812-0058-8251"
+    },
+    {
+      "name": "PT Sumber Tuna Utama",
+      "lat": 3.577066261173588,
+      "lng": 98.70455204932173,
+      "city": "Medan",
+      "description": "Premium Tuna farm with international standards",
+      "products": [
+        {
+          "name": "Tuna",
+          "category": "fisheries",
+          "tonnage": 200,
+          "sell_period": {
+            "start": "2024-12-05",
+            "end": "2025-03-24"
+          }
+        }
+      ],
+      "contact": "0821-8471-3697"
+    },
+    {
+      "name": "PT Pangan Premium Broccoli Prima",
+      "lat": -3.3192917556287815,
+      "lng": 114.63407002503571,
+      "city": "Banjarmasin",
+      "description": "Fresh Premium Broccoli from highland farms",
+      "products": [
+        {
+          "name": "Premium Broccoli",
+          "category": "horticulture",
+          "tonnage": 50,
+          "sell_period": {
+            "start": "2024-11-28",
+            "end": "2025-03-10"
+          }
+        }
+      ],
+      "contact": "0821-8429-7167"
+    },
+    {
+      "name": "CV Mitra Palm Oil Makmur",
+      "lat": -6.821363517945064,
+      "lng": 109.03120843117549,
+      "city": "Brebes",
+      "description": "Large scale Palm Oil plantation with processing facilities",
+      "products": [
+        {
+          "name": "Palm Oil",
+          "category": "plantations",
+          "tonnage": 1274,
+          "sell_period": {
+            "start": "2024-12-04",
+            "end": "2025-03-20"
+          }
+        }
+      ],
+      "contact": "0821-0608-2630"
+    },
+    {
+      "name": "UD Mitra Yellow Corn Jaya",
+      "lat": -7.955303713569418,
+      "lng": 112.59577518262172,
+      "city": "Malang",
+      "description": "Leading Yellow Corn supplier in the region",
+      "products": [
+        {
+          "name": "Yellow Corn",
+          "category": "grains",
+          "tonnage": 769,
+          "sell_period": {
+            "start": "2025-07-13",
+            "end": "2025-09-22"
+          }
+        }
+      ],
+      "contact": "0821-7756-3999"
+    },
+    {
+      "name": "UD Sumber Cocoa Utama",
+      "lat": -6.837410300621706,
+      "lng": 107.665755971714,
+      "city": "Bandung",
+      "description": "Sustainable Cocoa producer with modern technology",
+      "products": [
+        {
+          "name": "Cocoa",
+          "category": "plantations",
+          "tonnage": 241,
+          "sell_period": {
+            "start": "2025-03-21",
+            "end": "2025-06-09"
+          }
+        }
+      ],
+      "contact": "0852-2778-2829"
+    },
+    {
+      "name": "PT Hasil Premium Broccoli Makmur",
+      "lat": -2.95427270873474,
+      "lng": 104.74887693519888,
+      "city": "Palembang",
+      "description": "Fresh Premium Broccoli from highland farms",
+      "products": [
+        {
+          "name": "Premium Broccoli",
+          "category": "horticulture",
+          "tonnage": 31,
+          "sell_period": {
+            "start": "2024-12-07",
+            "end": "2025-03-20"
+          }
+        }
+      ],
+      "contact": "0813-9142-7982"
+    },
+    {
+      "name": "PT Tani Broiler Chicken Utama",
+      "lat": -5.400482608248286,
+      "lng": 105.24121198486532,
+      "city": "Lampung",
+      "description": "Quality Broiler Chicken producer with biosecurity system",
+      "products": [
+        {
+          "name": "Broiler Chicken",
+          "category": "poultry",
+          "tonnage": 73,
+          "sell_period": {
+            "start": "2024-11-20",
+            "end": "2025-02-27"
+          }
+        }
+      ],
+      "contact": "0812-5953-7906"
+    },
+    {
+      "name": "CV Tani Duck Jaya",
+      "lat": -5.478771277804698,
+      "lng": 105.31160349687421,
+      "city": "Lampung",
+      "description": "Certified Duck farm with modern facilities",
+      "products": [
+        {
+          "name": "Duck",
+          "category": "poultry",
+          "tonnage": 52,
+          "sell_period": {
+            "start": "2024-11-22",
+            "end": "2025-02-24"
+          }
+        }
+      ],
+      "contact": "0821-4687-8250"
+    },
+    {
+      "name": "CV Tani Premium Broccoli Jaya",
+      "lat": -6.794439506622646,
+      "lng": 107.57673777543455,
+      "city": "Bandung",
+      "description": "Organic Premium Broccoli producer with controlled environment",
+      "products": [
+        {
+          "name": "Premium Broccoli",
+          "category": "horticulture",
+          "tonnage": 38,
+          "sell_period": {
+            "start": "2024-11-11",
+            "end": "2025-02-18"
+          }
+        }
+      ],
+      "contact": "0852-8825-0645"
+    },
+    {
+      "name": "UD Pangan Sweet Corn Sejahtera",
+      "lat": -6.815810213218345,
+      "lng": 109.04046748439906,
+      "city": "Brebes",
+      "description": "Premium Sweet Corn producer with modern processing facilities",
+      "products": [
+        {
+          "name": "Sweet Corn",
+          "category": "grains",
+          "tonnage": 471,
+          "sell_period": {
+            "start": "2025-07-11",
+            "end": "2025-09-30"
+          }
+        }
+      ],
+      "contact": "0821-9029-4196"
+    },
+    {
+      "name": "CV Hasil Pandan Wangi Rice Makmur",
+      "lat": -6.8537253204611615,
+      "lng": 107.1690300897559,
+      "city": "Cianjur",
+      "description": "Leading Pandan Wangi Rice supplier in the region",
+      "products": [
+        {
+          "name": "Pandan Wangi Rice",
+          "category": "grains",
+          "tonnage": 737,
+          "sell_period": {
+            "start": "2025-02-04",
+            "end": "2025-04-05"
+          }
+        }
+      ],
+      "contact": "0853-5961-2001"
+    },
+    {
+      "name": "UD Pangan Yellow Corn Sejahtera",
+      "lat": -7.889990669530672,
+      "lng": 112.0187618892061,
+      "city": "Kediri",
+      "description": "Premium Yellow Corn producer with modern processing facilities",
+      "products": [
+        {
+          "name": "Yellow Corn",
+          "category": "grains",
+          "tonnage": 460,
+          "sell_period": {
+            "start": "2025-05-02",
+            "end": "2025-07-28"
+          }
+        }
+      ],
+      "contact": "0812-4619-5020"
+    },
+    {
+      "name": "PT Sumber Tuna Makmur",
+      "lat": -3.2998369675979426,
+      "lng": 114.62574161009465,
+      "city": "Banjarmasin",
+      "description": "Fresh Tuna producer with cold storage system",
+      "products": [
+        {
+          "name": "Tuna",
+          "category": "fisheries",
+          "tonnage": 228,
+          "sell_period": {
+            "start": "2024-11-12",
+            "end": "2025-02-26"
+          }
+        }
+      ],
+      "contact": "0853-6309-4379"
+    },
+    {
+      "name": "PT Mitra Duck Sejahtera",
+      "lat": -7.9488085408150555,
+      "lng": 112.60765986695148,
+      "city": "Malang",
+      "description": "Modern Duck farm with strict health protocols",
+      "products": [
+        {
+          "name": "Duck",
+          "category": "poultry",
+          "tonnage": 29,
+          "sell_period": {
+            "start": "2024-11-20",
+            "end": "2025-03-03"
+          }
+        }
+      ],
+      "contact": "0853-6120-1716"
+    }
+  ]
+}
